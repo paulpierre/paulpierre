@@ -1,4 +1,4 @@
-<h2 align="center"> 👋 Hello there. I'm Paul, a data engineer. I ❤️ Python</h2> 
+<h2 align="center"> 👋 Hello there. I'm Paul, a data engineer.<br/> I ❤️ Python</h2> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -21,7 +21,7 @@
 <h2 align="center"> 📈 Quick Stats </h2> 
 
 ![paulpierre's github stats](https://github-readme-stats.vercel.app/api?username=paulpierre&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulpierre&hide=css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulpierre&hide=css,html)
 <!--
 **paulpierre/paulpierre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
