@@ -22,7 +22,7 @@
 
 ![paulpierre's github stats](https://github-readme-stats.vercel.app/api?username=paulpierre&show_icons=true)
 
-- I'm probably most known for [Informer - Telegram Mass Surveillance](https://github.com/paulpierre/informer)
+- ⭐️ My project [Informer - Telegram Mass Surveillance](https://github.com/paulpierre/informer) w/ 600+ ⭐️ and 100+ ⑂ was featured on the [frontpage of HN](https://news.ycombinator.com/item?id=21750353)
 - 🔭  I’m currently working on: building scalable data platforms and apps in advertising
 - 🌱  I’m currently learning: everything data engineering
 - 📫  How to reach me: hi at paulpierre.com
