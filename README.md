@@ -21,7 +21,6 @@
 <h2 align="center"> 📈 Quick Stats </h2> 
 
 ![paulpierre's github stats](https://github-readme-stats.vercel.app/api?username=paulpierre&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulpierre&hide=css,html)
 
 - 🔭 I’m currently working in: advertising focused on data engineering and building apps that don't exist
 - 🌱 I’m currently learning: everything data engineering
