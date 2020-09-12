@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/flask%20-%333333.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/flask%20-%23333333.svg?&style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/vue.js%20-%4FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white"/>
   <img src="http://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
