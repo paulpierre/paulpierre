@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2 align="center"> 👋 Hello there. </h2> 
 
 <p align="center">
@@ -17,6 +15,7 @@
 
 <ul>
   <li><b>Twitter: </b> <a href="https://twitter.com/paulpierre" target="_blank">@paulpierre</a></li>
+  <li><b>Email: </b> <a href="#">hi at paulpierre dot com</a></li>
 </ul>
 
 <h2 align="center"> 📈 Quick Stats </h2> 
