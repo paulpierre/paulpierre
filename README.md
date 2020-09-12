@@ -19,9 +19,10 @@
 </ul>
 
 <h2 align="center"> 📈 Quick Stats </h2> 
-
+<p align="center">
 ![paulpierre's github stats](https://github-readme-stats.vercel.app/api?username=paulpierre&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulpierre&hide=css,html)
+</p>
 <!--
 **paulpierre/paulpierre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
