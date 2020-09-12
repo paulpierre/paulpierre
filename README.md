@@ -22,8 +22,8 @@
 
 ![paulpierre's github stats](https://github-readme-stats.vercel.app/api?username=paulpierre&show_icons=true)
 
-- 🔭 I’m currently working in: advertising focused on data engineering and building apps that don't exist
-- 🌱 I’m currently learning: everything data engineering
-- 📫 How to reach me: hi at paulpierre.com
+- 🔭  I’m currently working on: building scalable data platforms and apps in advertising
+- 🌱  I’m currently learning: everything data engineering
+- 📫  How to reach me: hi at paulpierre.com
 
 
