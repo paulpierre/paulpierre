@@ -7,9 +7,9 @@
   <img src="http://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Airflow-%23007A88.svg?&style=for-the-badge&logo=apache-airflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Golang%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/Golang%20-%23323330.svg?&style=for-the-badge&logo=go&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/NodeJS%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka%20-%234285F4.svg?&style=for-the-badge&logo=apache-kafka&logoColor=white"/>
 </p>
 
 <ul>
