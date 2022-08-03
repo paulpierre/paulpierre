@@ -16,7 +16,7 @@
   <li><b>Email: </b> <a href="#">hi at paulpierre dot com</a></li>
 </ul>
 
-- ⭐️ [Informer - Telegram Mass Surveillance](https://github.com/paulpierre/informer) w/ 900+ ⭐️ and 170+ ⑂ featured on the [frontpage of HN](https://news.ycombinator.com/item?id=21750353)
+- ⭐️ [Informer - Telegram Mass Surveillance](https://github.com/paulpierre/informer) w/ 1k+ ⭐️'s and 170+ ⑂ featured on the [frontpage of HN](https://news.ycombinator.com/item?id=21750353)
 - 🔭  Working on the future of web3 user acquisition
 - 🌱  Learning web3 data engineering, incentive mechanics, graph modeling
 - 📫  Reach me @ hi at paulpierre.com
