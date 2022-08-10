@@ -1,21 +1,64 @@
-<h2 align="center">Hello there 👋 I'm Paul, a data engineer passionate about web3, adtech and gaming.</h2> 
+<h2 align="center">hi 👋 i make pythonic web3 warez w/ my crew</h2> 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI%20-%23333333.svg?&style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="http://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Airflow-%23007A88.svg?&style=for-the-badge&logo=apache-airflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Golang%20-%23323330.svg?&style=for-the-badge&logo=go&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/NodeJS%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka%20-%234285F4.svg?&style=for-the-badge&logo=apache-kafka&logoColor=white"/>
-</p>
+```
+█▀▀ █▀█ █▄░█ █▀▄ █░█ █▀▀ ▀█▀ █ █░█ █▀▀
+█▄▄ █▄█ █░▀█ █▄▀ █▄█ █▄▄ ░█░ █ ▀▄▀ ██▄
+https://conductive.ai  //@conductiveai
+--------------------------------- 1994      
+srb$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$µ$?$$$$$
+$$$$S?ö¾ý"^```^"ý¾ö?S$$$S?ö¾ý"`   ?$$$$
+$$$L                       .;.ù. ;;$$$$
+SSSSL              ù  .ù;ù;;iii<<222SSS
+SSSSSL              .ù.ù .;;;;ii<<22222
+2S2S22L        .;'     .ù.;.ù;ii<<<<<22
+2222222L             .ù.;.ùiii<<<<<2222
+222i2222L            _.¿2i<<<<<2i22i222
+ii2ii2ii2L +2µ³³³iii³2i2iiii2iii22iii2i
+iiii2iiii;L iiii2iiiiiiiiiiii;2iiiiiiii
+iiii;iii2iiL iii;iiiiii;ii;ii;iiii;iiii
+;;i;;;;i;;;ùL i;;;;;;ù;;i;i;;i;;;.;iù;;
+;;;.ù;;;;.;;ùL ;i;;;.;;;;;;;ù;;;;;;;;;;
+;;.;;;;ù;;;ù;;; ;.;;;;;ùù.;;;ù;;ù.;;;;;
+.ù;ù;ù.ù.ù.ù.;.;.;;ù.ù.ù.ù;ù.;.ù.ù.ù.ù.
+.  .   ù  ù   .   ù ;;    .ù  ; .   ù
+. ù   ;     ;  .        ù      ù  ù
+    .     ù   ;.;    ;    ù      ;
+                   .
+      ù                       .
+```
+## stack atm
+
+- evm
+- python3.9
+- postgres
+- dbt
+- kubernetes
+- kafka / redpanda
+- ksqldb
+- timeseries db's
+- dlt
+- solidity
+- pinot
+- olap / oltp databases
+- erigon / geth
+- json rpcs
+- web3js / essential web3
+- nodejs
+- vue / vanilla js
+- airbyte
+- graph theory / analysis
+
+
+## gm
 
 <ul>
-  <li><b>Twitter: </b> <a href="https://twitter.com/paulpierre" target="_blank">@paulpierre</a></li>
-  <li><b>Email: </b> <a href="#">hi at paulpierre dot com</a></li>
+  <li><b>follow me: </b> <a href="https://twitter.com/paulpierre" target="_blank">@paulpierre</a></li>
+  <li><b>sey hei: </b> <a href="#">hi🍜paulpierre.com</a></li>
 </ul>
 
+
+## about
 - ⭐️ [Informer - Telegram Mass Surveillance](https://github.com/paulpierre/informer) w/ 1k+ ⭐️'s and 170+ ⑂ featured on the [frontpage of HN](https://news.ycombinator.com/item?id=21750353)
 - 🔭  Working on the future of web3 user acquisition
 - 🌱  Learning web3 data engineering, incentive mechanics, graph modeling
