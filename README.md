@@ -1,4 +1,4 @@
-<h2 align="center">hi 👋 i make pythonic web3 warez w/ my crew</h2> 
+<h2 align="center">hi 👋 i make pythonic web3 warez w/ a leet crew of gigabrains</h2> 
 
 ```
 █▀▀ █▀█ █▄░█ █▀▄ █░█ █▀▀ ▀█▀ █ █░█ █▀▀
