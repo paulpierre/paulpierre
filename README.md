@@ -35,7 +35,8 @@ iiii;iii2iiL iii;iiiiii;ii;ii;iiii;iiii
 - kafka, redpanda, celery, rabbitmq, redis
 - kubernetes, linux, hashicorp shit
 - ❤️ graph theory, analytics
-- discplile (read: lemming) of balaji's network state
+- disciple (read: lemming) of balaji's network state
+- ... feed me repo ⭐️ nom
 
 
 ## gm
@@ -47,6 +48,7 @@ iiii;iii2iiL iii;iiiiii;ii;ii;iiii;iiii
 
 
 ## about
+- ⭐️ [Hydralisk - scale and fund millions of EVM-chain wallets via CLI](https://github.com/paulpierre/hydralisk)
 - ⭐️ [Informer - Telegram Mass Surveillance](https://github.com/paulpierre/informer) w/ 1.1k+ ⭐️'s and 170+ ⑂ featured on the [frontpage of HN](https://news.ycombinator.com/item?id=21750353)
 - ⭐️ [twig.py - a twitter web3 influencer truffle pig used for finding engaged users](https://github.com/paulpierre/twig)
 - 🔭  Working on the future of web3 user acquisition
