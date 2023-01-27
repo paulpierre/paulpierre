@@ -52,7 +52,5 @@ iiii;iii2iiL iii;iiiiii;ii;ii;iiii;iiii
 - ⭐️ [Informer - Telegram Mass Surveillance](https://github.com/paulpierre/informer) w/ 1.1k+ ⭐️'s and 170+ ⑂ featured on the [frontpage of HN](https://news.ycombinator.com/item?id=21750353)
 - ⭐️ [twig.py - a twitter web3 influencer truffle pig used for finding engaged users](https://github.com/paulpierre/twig)
 - 🔭  Working on the future of web3 user acquisition
-- 🌱  Learning web3 data engineering, incentive mechanics, graph modeling
-- 📫  Reach me @ hi at paulpierre.com
-
+- 🌱  Student of data engineering, incentive mechanics and anything that can be modeled via graph
 
