@@ -29,25 +29,13 @@ iiii;iii2iiL iii;iiiiii;ii;ii;iiii;iiii
 ```
 ## stack atm
 
-- evm
-- python3.9
-- postgres
-- dbt
-- kubernetes
-- kafka / redpanda
-- ksqldb
-- timeseries db's
-- dlt
-- solidity
-- pinot
-- olap / oltp databases
-- erigon / geth
-- json rpcs
-- web3js / essential web3
-- nodejs
-- vue / vanilla js
-- airbyte
-- graph theory / analysis
+- evm, solidity, bigchaindb, erigon, geth
+- python, golang, nodejs, js, vuejs
+- timescaledb, postgres, clickhouse, ksqldb
+- kafka, redpanda, celery, rabbitmq, redis
+- kubernetes, linux, hashicorp shit
+- ❤️ graph theory, analytics
+- discplile (read: lemming) of balaji's network state
 
 
 ## gm
