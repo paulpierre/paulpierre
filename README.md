@@ -17,7 +17,7 @@ https://conductive.ai  // @conductiveai
 | - clickhouse, postgres, timescaledb, ksqldb, debezium | ⭐️ [twig.py - a twitter web3 influencer truffle pig used for finding engaged users](https://github.com/paulpierre/twig) |
 | - kafka, redpanda, celery, rabbitmq, redis | 🔭  Working on the future of web3 user acquisition |
 | - k8s, hashicorp, l00n1x | 🌱  Student of data engineering, incentive mechanics and anything that can be modeled via graph |
-| - ❤️ graph theory, big-data, games | 🤖  disciple (read: lemming) of [balaji's network state](https://thenetworkstate.com/) |
+| - ❤️ graph theory, big-data, games | 🤖 i'm openly a [balaji's network state](https://thenetworkstate.com/) npc |
 | - 🐊 ... feed me repo ⭐️ nom | 🎙️ all-in-podcast, lex fridman, yc, network state, a16z, MoZ, MFM, proof, jre, flagrant2 |
 
 
