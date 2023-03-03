@@ -11,16 +11,14 @@ https://conductive.ai  // @conductiveai
 
 | | |
 |---------------|-----|
-| ⭐️ my repos   | [ 🐙 Hydralisk - scale and fund millions of EVM-chain wallets via CLI](https://github.com/paulpierre/hydralisk) <br>
-|               | [ 🕵️ Informer - Telegram Mass Surveillance](https://github.com/paulpierre/informer) w/ 1.1k+ ⭐️'s and 170+ ⑂ featured on the [frontpage of HN](https://news.ycombinator.com/item?id=21750353) <br>
-|               | [ 🐦 twig.py - a twitter web3 influencer truffle pig used for finding engaged users](https://github.com/paulpierre/twig) |
-| technologies  | evm, solidity, erigon, geth  |
-| lang stack    | python, golang, kotlin, swift, vue, nodejs |
-| data stack    | clickhouse, postgres, timescaledb, ksqldb, debezium |
-| pipeline stack| kafka, redpanda, celery, rabbitmq, redis |
-| orch stack    | k8s, hashicorp, docker, nomad l00n1x |
-| 👷‍♂️ work  | building the future of web3 user acquisition |
-| 🌱 experience  | Student of data engineering, adyech, incentive mechanics |
+| ⭐️ my repos   | [ 🐙 Hydralisk - scale and fund millions of EVM-chain wallets via CLI](https://github.com/paulpierre/hydralisk) <br> [ 🕵️ Informer - Telegram Mass Surveillance](https://github.com/paulpierre/informer) w/ 1.1k+ ⭐️'s and 170+ ⑂ featured on the [frontpage of HN](https://news.ycombinator.com/item?id=21750353) <br> [ 🐦 twig.py - a twitter web3 influencer truffle pig used for finding engaged users](https://github.com/paulpierre/twig) |
+| 🧠 technologies  | evm, solidity, erigon, geth, gpt3  |
+| 💬 lang   | python, golang, kotlin, swift, vue, nodejs |
+| 💽 data    | clickhouse, postgres, timescaledb, ksqldb, debezium |
+| 🚇 pipelines | kafka, redpanda, celery, rabbitmq, redis |
+| 🧑‍🍳 orchestration    | k8s, hashicorp, docker, nomad l00n1x |
+| 👷‍♂️ work  | build0r of web3 user acquistion tech |
+| 🌱 experience  | adtech, data engineering, mobiel games |
 | ❤️ hobbies | graph theory, sci-fi, games, 🤖 openly a [balaji's network state](https://thenetworkstate.com/) npc |
 | 🎙️ podcasts | all-in-podcast, lex fridman, yc, network state, a16z, MoZ, MFM, proof, jre, flagrant2 |
 
