@@ -29,14 +29,13 @@ iiii;iii2iiL iii;iiiiii;ii;ii;iiii;iiii
 ```
 ## stack atm
 
-- evm, solidity, bigchaindb, erigon, geth
-- python, golang, nodejs, js, vuejs
+- evm, solidity, erigon, geth
+- python, golang, kotlin, swift, vue, nodejs
 - timescaledb, postgres, clickhouse, ksqldb
 - kafka, redpanda, celery, rabbitmq, redis
-- kubernetes, linux, hashicorp shit
-- ❤️ graph theory, analytics
-- disciple (read: lemming) of balaji's network state
-- ... feed me repo ⭐️ nom
+- k8s, hashicorp, l00n1x
+- ❤️ graph theory, big-data, games
+- 🐊 ... feed me repo ⭐️ nom
 
 
 ## gm
@@ -53,4 +52,7 @@ iiii;iii2iiL iii;iiiiii;ii;ii;iiii;iiii
 - ⭐️ [twig.py - a twitter web3 influencer truffle pig used for finding engaged users](https://github.com/paulpierre/twig)
 - 🔭  Working on the future of web3 user acquisition
 - 🌱  Student of data engineering, incentive mechanics and anything that can be modeled via graph
+- 🤖  disciple (read: lemming) of [balaji's network state](https://thenetworkstate.com/)
+- 🎙️ all-in-podcast, lex fridman, yc, network state, a16z, MoZ, MFM, proof, jre, flagrant2
+
 
