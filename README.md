@@ -18,7 +18,7 @@ https://conductive.ai  // @conductiveai
 | 🚇 pipelines | kafka, redpanda, celery, rabbitmq, redis |
 | 🧑‍🍳 orchestration    | k8s, hashicorp, docker, nomad l00n1x |
 | 👷‍♂️ work  | build0r of web3 user acquistion tech |
-| 🌱 experience  | adtech, data engineering, mobiel games |
+| 🌱 experience  | adtech, data engineering, mobile games |
 | ❤️ hobbies | graph theory, sci-fi, games, 🤖 openly a [balaji's network state](https://thenetworkstate.com/) npc |
 | 🎙️ podcasts | all-in-podcast, lex fridman, yc, network state, a16z, MoZ, MFM, proof, jre, flagrant2 |
 
