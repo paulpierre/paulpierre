@@ -12,7 +12,7 @@ https://conductive.ai  // @conductiveai
 | | |
 |---------------|-----|
 | ⭐️ **my repos**   | [ 🐙 Hydralisk - scale and fund millions of EVM-chain wallets via CLI](https://github.com/paulpierre/hydralisk) <br> [ 🕵️ Informer - Telegram Mass Surveillance](https://github.com/paulpierre/informer) w/ 1.1k+ ⭐️'s and 170+ ⑂ featured on the [frontpage of HN](https://news.ycombinator.com/item?id=21750353) <br> [ 🐦 twig.py - a twitter web3 influencer truffle pig used for finding engaged users](https://github.com/paulpierre/twig) |
-| 🧠 **technologies**  | evm, solidity, erigon, geth, gpt3  |
+| 🧠 **technologies**  | evm, solidity, erigon, geth, gpt3, llm, langchain, llamaindex  |
 | 💬 **lang**   | python, golang, js, kotlin, swift, vue, nodejs |
 | 💽 **data**    | clickhouse, postgres, timescaledb, ksqldb |
 | 🚇 **pipelines** | kafka, redpanda, celery, rabbitmq, redis, debezium, airflow |
