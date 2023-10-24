@@ -6,7 +6,7 @@
 https://conductive.ai  // @conductiveai
 ```
 <p align="center">
-    <img src="https://media3.giphy.com/media/13AN8X7jBIm15m/giphy.gif?cid=ecf05e47hbftijbdtts4c5s72mfce7uql2uir1i60gcyp9z2&rid=giphy.gif&ct=g" align="center"/>
+    <img src="https://media.tenor.com/LygaN3rh1_EAAAAC/morty-evil.gif" align="center"/>
 </p>
 
 | | |
