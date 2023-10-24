@@ -19,7 +19,7 @@ https://conductive.ai  // @conductiveai
 | 🧑‍🍳 **orchest**    | k8s, hashicorp, docker, nomad l00n1x |
 | 👷‍♂️ **work**  | build0r of web3 user acquistion tech and conversational AI |
 | 🌱 **xp**  | adtech, data engineering, mobile games, machine learning |
-| ❤️ **❤️** | graph theory, sci-fi, games, 🤖 openly a [balaji's network state](https://thenetworkstate.com/) npc |
+| ❤️ **❤️** | 🐍🎷, graph theory, sci-fi, games, 🤖 openly a [balaji's network state](https://thenetworkstate.com/) npc |
 | 🎙️ **podcasts** | all-in-podcast, lex fridman, yc, network state, a16z, MoZ, MFM, proof, jre, flagrant2 |
 
 
