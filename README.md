@@ -11,7 +11,7 @@ https://conductive.ai  // @conductiveai
 
 | | |
 |---------------|-----|
-| ⭐️ **repos**   | [💬 RasaGPT - Headless chat platform built on top of Rasa and Langchain](https://github.com/paulpierre/RasaGPT) 1.9k+ ⭐️'s #3 [trending on HN](https://news.ycombinator.com/item?id=35859344#35861240) <br> [ 🐙 Hydralisk - scale and fund millions of EVM-chain wallets via CLI](https://github.com/paulpierre/hydralisk) <br> [ 🕵️ Informer - Telegram Mass Surveillance](https://github.com/paulpierre/informer) w/ 1.2k+ ⭐️'s and 170+ ⑂ featured on the [frontpage of HN](https://news.ycombinator.com/item?id=21750353) <br> [ 🐦 twig.py - a twitter web3 influencer truffle pig used for finding engaged users](https://github.com/paulpierre/twig) |
+| ⭐️ **repos**   | [💬 RasaGPT - Headless chat platform built on top of Rasa and Langchain](https://github.com/paulpierre/RasaGPT) 1.9k+ ⭐️'s #3 [trending on HN](https://news.ycombinator.com/item?id=35859344#35861240) <br> [ 🐙 Hydralisk - scale and fund millions of EVM-chain wallets via CLI](https://github.com/paulpierre/hydralisk) <br> [ 🕵️ Informer - Telegram Mass Surveillance](https://github.com/paulpierre/informer) w/ 1.3k+ ⭐️'s and 170+ ⑂ featured on the [frontpage of HN](https://news.ycombinator.com/item?id=21750353) <br> [ 🐦 twig.py - a twitter web3 influencer truffle pig used for finding engaged users](https://github.com/paulpierre/twig) |
 | 🧠 **tech**  | evm, solidity, erigon, geth, gpt, llms, agents, langchain, llamaindex, stable diffusion, lora  |
 | 💬 **lang**   | python, golang, js, kotlin, swift, vue, nodejs |
 | 💽 **data**    | clickhouse, postgres, timescaledb, ksqldb |
