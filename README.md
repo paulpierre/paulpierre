@@ -30,3 +30,8 @@ https://conductive.ai  // @conductiveai
   <li><b>follow: </b> <a href="https://twitter.com/paulpierre" target="_blank">@paulpierre</a></li>
   <li><b>email: </b> <a href="#">hi🍜paulpierre.com</a></li>
 </ul>
+
+
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('[https://github.com/cloud11665/cloud11665/assets/59028866/3b916a93-1632-49cd-bf65-14e666cd81c8](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDI0czA3bXFrNHNibDU2NzBqcWFncnl3bWhieWx0MXBnNzEwMmV4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.webp)');]{x0000}$}
