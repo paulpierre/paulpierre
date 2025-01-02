@@ -1,4 +1,4 @@
-<h2 align="center">🫡🧱 singularity brick-layer </h2> 
+<h2 align="center">🫡🧱 singularity brick-layer npc</h2> 
 
 <p align="center">
     <img src="https://media.tenor.com/LygaN3rh1_EAAAAC/morty-evil.gif" align="center"/>
