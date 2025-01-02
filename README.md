@@ -1,5 +1,4 @@
-## 🧱 singularity bricklayer npc
-
+<h2 align="center">🧱 singularity bricklayer, occasional npc</h2>
 <p align="center">
     <img src="https://media.tenor.com/LygaN3rh1_EAAAAC/morty-evil.gif" align="center"/>
 </p>
