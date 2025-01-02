@@ -1,4 +1,4 @@
-<h2 align="center">🧱 singularity bricklayer npc</h2> 
+## 🧱 singularity bricklayer npc
 
 <p align="center">
     <img src="https://media.tenor.com/LygaN3rh1_EAAAAC/morty-evil.gif" align="center"/>
