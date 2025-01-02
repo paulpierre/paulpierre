@@ -1,13 +1,5 @@
-<h2 align="center">🧱 llm brick layer in service of</h2> 
+<h2 align="center">🫡🧱 singularity brick-layer </h2> 
 
-```
-   _____                       __                              
-  / ___/__  ______  ___  _____/ /_  __  ______ ___  ____ _____ 
-  \__ \/ / / / __ \/ _ \/ ___/ __ \/ / / / __ `__ \/ __ `/ __ \
- ___/ / /_/ / /_/ /  __/ /  / / / / /_/ / / / / / / /_/ / / / /
-/____/\__,_/ .___/\___/_/  /_/ /_/\__,_/_/ /_/ /_/\__,_/_/ /_/ 
-          /_/                                                  
-```
 <p align="center">
     <img src="https://media.tenor.com/LygaN3rh1_EAAAAC/morty-evil.gif" align="center"/>
 </p>
